@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://arman278012.github.io/](https://arman278012.github.io/)
+- 👨‍💻 All of my projects are available at [https://arman278012.github.io/]([https://arman278012.github.io/](https://arman-ali.vercel.app/))
 
 - 💬 Ask me about **React, Node , Express, Next js.**
 
 - 📫 How to reach me **aa278012@gmail.com**
 
-- 📄 Know about my experiences [https://arman278012.github.io/](https://arman278012.github.io/)
+- 📄 Know about my experiences [https://arman278012.github.io/]([https://arman278012.github.io/](https://arman-ali.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
