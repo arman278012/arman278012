@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/@armanal91521989" target="blank"><img src="https://img.shields.io/twitter/follow/@armanal91521989?logo=twitter&style=for-the-badge" alt="@armanal91521989" /></a> </p>
 
-- 🔭 I’m currently working on **React Js**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at ((https://arman-ali.vercel.app/))
 
-- 💬 Ask me about **React, Node , Express, Next js.**
+- 💬 Ask me about **React, Node , Express**
 
 - 📫 How to reach me **aa278012@gmail.com**
 
