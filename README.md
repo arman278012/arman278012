@@ -28,14 +28,15 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/arman-ali-06011b1ab/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/arman278012/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/armanali.khan.750331/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/arman278012/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 <a href="https://instagram.com/arman_ali_0311" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/arman278012/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
+
 
 </p>
 
