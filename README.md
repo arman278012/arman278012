@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at ((https://arman-ali.vercel.app/))
+- 👨‍💻 All of my projects are available at ((https://armanali.info))
 
 - 💬 Ask me about **React, Node , Express**
 
