@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aa278012@gmail.com**
 
-- 📄 Know about my experiences((https://arman-ali.vercel.app/))
+- 📄 Know about my experiences((https://armanali.info))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
