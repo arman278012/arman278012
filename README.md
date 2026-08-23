@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/112761880/234756600-543b28b4-4aff-49a9-8b89-57a2a1dd2469.gif" align="center" style="width: 100%;height:300px" />
 </div>
 <h1 align="center">Hi 👋, I'm Arman Ali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack Web/App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman278012&label=Profile%20views&color=0e75b6&style=flat" alt="arman278012" /> </p>
 
